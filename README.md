@@ -61,3 +61,7 @@ GitHub Actions (`.github/workflows/ci.yml`) runs the linter and tests on every p
 ```
 
 See `gradebot_screenshot.png` for the result.
+
+## AI Usage
+
+AI assistance (Claude by Anthropic) was used to help design, write, and test parts of this code. I reviewed, ran, and verified all of it.

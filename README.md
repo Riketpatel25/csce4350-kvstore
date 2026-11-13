@@ -57,10 +57,12 @@ GitHub Actions (`.github/workflows/ci.yml`) runs the linter and tests on every p
 ## Gradebot
 
 ```bash
-./gradebot project1 --dir . --run "python3 main.py"
+./gradebot project-1 --dir . --run "python3 main.py"
 ```
 
-See `gradebot_screenshot.png` for the result.
+Result (99.50%):
+
+![Gradebot result](gradebot_screenshot.png)
 
 ## AI Usage
 
